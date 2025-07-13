@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelBoo
 - 👀 I’m interested in cybersecurity, python, c#, kalilinux
-- 🌱 I’m currently learning: php, kotlin, 
+- 🌱 I’m currently learning: php, kotlin, java
 - 📫 How to reach me: https://www.linkedin.com/in/samuel-castro-brito
 
 
